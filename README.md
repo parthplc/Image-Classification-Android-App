@@ -1,8 +1,8 @@
-# TensorFlowLite classification app
+# TensorFlowLite plant classification app
 
 ## Overview
 
-This is an android app with classifcation of three cars <br>
+This is an android app with classifcation of 10 plant <br>
 
 
 <!-- TODO(b/124116863): Add app screenshot. -->
