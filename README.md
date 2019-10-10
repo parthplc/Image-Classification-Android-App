@@ -1,11 +1,8 @@
-# TensorFlowLite Car classification app
+# TensorFlowLite classification app
 
 ## Overview
 
 This is an android app with classifcation of three cars <br>
-1.Wagonr<br>
-2.Swift<br>
-3.BMW<br>
 
 
 <!-- TODO(b/124116863): Add app screenshot. -->
